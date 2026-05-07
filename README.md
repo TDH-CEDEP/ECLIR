@@ -51,8 +51,7 @@ Jurisdictions are encouraged to adapt the framework with acknowledgement to TDH.
 ## About the Developers
 
 ECLIR was collaboratively developed by:
-- Tennessee Department of Health (TDH) – Surveillance Systems & Informatics
-Program
+- Tennessee Department of Health (TDH) – Surveillance Systems & Informatics Program
 - J Michael Consulting (JMC) – Provided full-lifecycle delivery including
 requirements elicitation, solution architecture, technical implementation, data
 engineering, analytics, governance, release coordination, and post-deployment
@@ -60,7 +59,8 @@ support
 
 For jurisdictions seeking implementation assistance or customization support, J Michael
 Consulting (JMC) may be contacted at: innovation@jmichael-consulting.com
-Acknowledgement
+
+## Acknowledgement
 
 Please credit the Tennessee Department of Health when reusing or adapting components
 of this solution.
