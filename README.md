@@ -1,6 +1,8 @@
 # Electronic Case and Laboratory Interoperability Repository (ECLIR)
 Developed for the Tennessee Department of Health (TDH)
 
+Use requires the use of a No Cost contract, the template of which is found [here](NC_(No_Cost)_contract_template.docx)
+
 ## Overview
 The Electronic Case and Laboratory Interoperability Repository (ECLIR) is a standards-
 based framework developed for the Tennessee Department of Health to modernize
